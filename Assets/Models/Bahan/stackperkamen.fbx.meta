@@ -1,19 +1,9 @@
 fileFormatVersion: 2
-guid: cd699107aface9648ac7e822cfe133e1
+guid: 6b774759135a0ca4e81768baabcd4eae
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metalic
-    second: {fileID: 2100000, guid: 9d4e5e7fbc9325a49aa5ed96967cf1a9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Timbul
-    second: {fileID: 2100000, guid: c1b5c6250b6e3834382b49299d1b3e41, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
